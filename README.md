@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shayandev00
 - 👀 I’m interested in read books and learn programmming
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on Nasa :), one day. I'll go :)
 - 📫 How to reach me 'shayankamandi82@gmail.com'
 
