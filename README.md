@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shayankamandi
-- 👀 I’m interested in read books and learn programmming every single day
-- 💻 I’m currently use node js & electron  
-- 🚀 I’m looking to collaborate on Nasa :), one day, I'll go :)
+- 👀 I’m interested in reading books and learning programmming every single day
+- 💻 I currently use node js & electron  
+- 🚀 I’m looking forward to collaborate with Nasa :), one day, I'll go :)
 - 📫 How to reach me 'shayankamandi82@gmail.com'
 
 <!---
