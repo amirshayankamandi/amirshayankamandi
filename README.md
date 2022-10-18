@@ -1,14 +1,14 @@
-Hi 👋 My name is Shayan Kamandi
+Hi 👋 My name is Amir Shayan Kamandi
 ===============================
 
 Backe-End Developer
 -------------------
 
-I am a back-end developer and I have been working for the company since I was 16 and I am eager to learn every day, and this has always been my motto for myself: A programmer who knows nothing, but Is eager to learn every day :)
+I am a Backend developer and I have been working for a company since I was 16 years old. I am eager to learn every day in my career, and this has always been my motto for myself: a developer who knows nothing, but Is eager to learn every day! 
 
-* 🌍  I'm based in Italy, Roma
+* 🌍  I'm based in Tehran, Iran
 * ✉️  You can contact me at [shayankamandi82@gmail.com](mailto:shayankamandi82@gmail.com)
-* 🚀  I'm currently working on [Tdj Consolting](http://www.tdjconsulting.com/)
+* 🚀  I'm currently looking forward to job
 * 🤝  I'm open to collaborating on Nasa:)
 
 ### Skills
