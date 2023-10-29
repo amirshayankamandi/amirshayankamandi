@@ -10,7 +10,6 @@ a developer who knows nothing, but is eager to learn every day!
 
 * 🌍  I'm based in Tehran, Iran
 * ✉️  You can contact me at [shayankamandi82@gmail.com](mailto:shayankamandi82@gmail.com)
-* 🤝  I'm open to collaborating on NASA:)
 
 ### Skills
 
