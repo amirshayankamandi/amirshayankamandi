@@ -8,7 +8,7 @@ I am a Backend developer and I have been working for a company since I was 16 ye
 
 * 🌍  I'm based in Tehran, Iran
 * ✉️  You can contact me at [shayankamandi82@gmail.com](mailto:shayankamandi82@gmail.com)
-* 🤝  I'm open to collaborating on Nasa:)
+* 🤝  I'm open to collaborating on NASA:)
 
 ### Skills
 
