@@ -4,8 +4,7 @@ Amir Shayan Kamandi
 Backend Developer
 -------------------
 
-I am a backend developer and I have been working in the company since I was 16 years old(2019) along with my studies! I have been eager to learn in any field since I can remember, and I have a motto for my profession:
-a developer who knows nothing, but is eager to learn every day!
+I'm a Backend Developer with a strong passion for continuous learning. I embarked on my tech journey at the age of 16 and have been dedicated to refining my skills ever since. Balancing my studies and my love for coding, I aspire to be a developer who embraces the mindset of constant growth. Additionally, I have a keen interest in business and have gained valuable experience through my involvement with startups. Excited to explore new opportunities!
 
 
 * 🌍  I'm based in Tehran, Iran
