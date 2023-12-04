@@ -10,6 +10,3 @@ a developer who knows nothing, but is eager to learn every day!
 
 * 🌍  I'm based in Tehran, Iran
 * ✉️  You can contact me at [shayankamandi82@gmail.com](mailto:shayankamandi82@gmail.com)
-
-
-<p align="left"> <a href="https://www.github.com/amirshayankamandi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/amirshayankamandi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
