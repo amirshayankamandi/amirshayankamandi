@@ -1,7 +1,7 @@
-Hi 👋 My name is Amir Shayan Kamandi
+Amir Shayan Kamandi
 ===============================
 
-Backe-End Developer
+Backend Developer
 -------------------
 
 I am a backend developer and I have been working in the company since I was 16 years old(2019) along with my studies! I have been eager to learn in any field since I can remember, and I have a motto for my profession:
