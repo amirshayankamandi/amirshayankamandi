@@ -1,11 +1,22 @@
-Amir Shayan Kamandi
-===============================
+# Amir Shayan Kamandi
 
-Backend Developer
--------------------
+**Software Engineer · Founder · Product Builder**
 
-I'm a Backend Engineer with a strong passion for continuous learning. I embarked on my tech journey at the age of 16 and have been dedicated to refining my skills ever since. Balancing my studies and my love for coding, I aspire to be a developer who embraces the mindset of constant growth. Additionally, I have a keen interest in business and have gained valuable experience through my involvement with startups. Excited to explore new opportunities!
+I'm a software engineer and entrepreneur focused on building software products, backend systems, and SaaS solutions.
 
+I started my journey in technology at 16 and have since worked across software engineering, product development, and startup environments. I enjoy turning ideas into practical solutions, designing reliable systems, and bridging the gap between technology and business.
 
-* 🌍  I'm based in Tehran, Iran
-* ✉️  You can contact me at [shayankamandi82@gmail.com](mailto:shayankamandi82@gmail.com)
+**Areas of Focus**
+- Backend & API Development
+- Full-Stack Product Engineering
+- Software Architecture
+- SaaS & Startup Building
+
+**Tech Stack**
+
+Node.js · PHP · Laravel · Next.js · MySQL · Redis · Docker
+
+- Location: Tehran, Iran
+- Email: [shayankamandi82@gmail.com](mailto:shayankamandi82@gmail.com)
+
+*Building products, solving problems, and turning ideas into software.*
